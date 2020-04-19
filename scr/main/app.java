@@ -8,3 +8,5 @@ p v my mymthod()
   s.o.p("mythod")
   s.o.p("mythod2add")
 }
+p v mymethod(0{
+s.o.p("my  branch")
